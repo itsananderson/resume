@@ -1,5 +1,6 @@
 ---
-title: Will Anderson - Resume
+title: Will Anderson
+subtitle: Resume
 layout: page
 ---
 
