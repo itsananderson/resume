@@ -53,3 +53,13 @@ I created automated tests for new features being added to Microsoft adCenter&#39
 *October 2013 - July 2014*
 
 The Digital Asset Management service is a backend for storage, management, encoding, and delivery of creative assets such as images and videos. This service was built on cloud technology (Windows Azure), and is designed to be highly available and scalable.
+
+### Skills
+
+* JavaScript
+* Node.js
+* AngularJS
+* Git
+* C#
+* PHP
+* WordPress
