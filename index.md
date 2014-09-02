@@ -7,7 +7,7 @@ layout: page
 ### Summary
 
 I chose the software development industry because it constantly provides new challenges.
-I'm happiest when I'm solving problems.
+I&quot;m happiest when I&quot;m solving problems.
 I have a passion for writing tools that either make tasks easier to complete or eliminate them altogether.
 
 ### Work Experience
@@ -18,7 +18,7 @@ I have a passion for writing tools that either make tasks easier to complete or 
 
 ##### ACM Authoring and Asset Management (2013 - Present)
 
-I'm building tools for authoring a wide variety of ad experiences. In addition to maintaining legacy ad creation tools, I'm building the next generation of tooling using modern technology: Angular, ASP.NET, and Node, hosted on Windows Azure.
+I&quot;m building tools for authoring a wide variety of ad experiences. In addition to maintaining legacy ad creation tools, I&quot;m building the next generation of tooling using modern technology: Angular, ASP.NET, and Node, hosted on Windows Azure.
 
 In addition to client-side tools, I built, and am maintaining the backend service for storage, management, encoding, and delivery of creative assets such as images and videos. This service was built on cloud technology (Windows Azure), and is designed to be highly available and scalable.
 
@@ -26,22 +26,22 @@ In addition to client-side tools, I built, and am maintaining the backend servic
 
 I worked on the private cloud infrastructure for the Online Services Division (Bing, MSN). My team wrote and maintained the software that deploys and monitors services and data for Bing, Bing Ads, and MSN.
 
-### CodeAwhile.com - Co-Founder, Lead Developer
+#### CodeAwhile.com - Co-Founder, Lead Developer
 
 *January 2012 - Present*
 
-I've been developing WordPress plugins and themes for people since 2008. In 2012, I teamed up with two other devs, and we founded CodeAwhile. Our primary focus is custom WordPress plugin development. We're doing our best to bring industry software development principles to the WordPress ecosystem.
+I&quot;ve been developing WordPress plugins and themes for people since 2008. In 2012, I teamed up with two other devs, and we founded CodeAwhile. Our primary focus is custom WordPress plugin development. We&quot;re doing our best to bring industry software development principles to the WordPress ecosystem.
 
-Since 2013, we've expanded to bring our standards and quality commitment to customers by consulting on PHP, Node, and .NET platforms. We also consult companies on effective use of Git for source control.
+Since 2013, we&quot;ve expanded to bring our standards and quality commitment to customers by consulting on PHP, Node, and .NET platforms. We also consult companies on effective use of Git for source control.
 
-### Microsoft - Intern, Software Development Engineer in Test
+#### Microsoft - Intern, Software Development Engineer in Test
 
 *June 2011 - August 2011*
 
 I wrote tools to streamline the simulation of production configurations on test machines
 
-### Microsoft - Intern, Software Development Engineer in Test
+#### Microsoft - Intern, Software Development Engineer in Test
 
 *June 2010 - August 2010*
 
-I created automated tests for new features being added to Microsoft adCenter's desktop ad campaign management tool
+I created automated tests for new features being added to Microsoft adCenter&quot;s desktop ad campaign management tool
