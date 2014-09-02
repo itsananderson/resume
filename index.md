@@ -45,3 +45,11 @@ I wrote tools to streamline the simulation of production configurations on test 
 *June 2010 - August 2010*
 
 I created automated tests for new features being added to Microsoft adCenter&#39;s desktop ad campaign management tool
+
+### Projects
+
+#### Digital Asset Management
+
+*October 2013 - July 2014*
+
+The Digital Asset Management service is a backend for storage, management, encoding, and delivery of creative assets such as images and videos. This service was built on cloud technology (Windows Azure), and is designed to be highly available and scalable.
