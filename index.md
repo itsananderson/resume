@@ -7,7 +7,7 @@ layout: page
 ### Summary
 
 I chose the software development industry because it constantly provides new challenges.
-I&quot;m happiest when I&quot;m solving problems.
+I&#39;m happiest when I&#39;m solving problems.
 I have a passion for writing tools that either make tasks easier to complete or eliminate them altogether.
 
 ### Work Experience
@@ -18,7 +18,7 @@ I have a passion for writing tools that either make tasks easier to complete or 
 
 ##### ACM Authoring and Asset Management (2013 - Present)
 
-I&quot;m building tools for authoring a wide variety of ad experiences. In addition to maintaining legacy ad creation tools, I&quot;m building the next generation of tooling using modern technology: Angular, ASP.NET, and Node, hosted on Windows Azure.
+I&#39;m building tools for authoring a wide variety of ad experiences. In addition to maintaining legacy ad creation tools, I&#39;m building the next generation of tooling using modern technology: Angular, ASP.NET, and Node, hosted on Windows Azure.
 
 In addition to client-side tools, I built, and am maintaining the backend service for storage, management, encoding, and delivery of creative assets such as images and videos. This service was built on cloud technology (Windows Azure), and is designed to be highly available and scalable.
 
@@ -30,9 +30,9 @@ I worked on the private cloud infrastructure for the Online Services Division (B
 
 *January 2012 - Present*
 
-I&quot;ve been developing WordPress plugins and themes for people since 2008. In 2012, I teamed up with two other devs, and we founded CodeAwhile. Our primary focus is custom WordPress plugin development. We&quot;re doing our best to bring industry software development principles to the WordPress ecosystem.
+I&#39;ve been developing WordPress plugins and themes for people since 2008. In 2012, I teamed up with two other devs, and we founded CodeAwhile. Our primary focus is custom WordPress plugin development. We&#39;re doing our best to bring industry software development principles to the WordPress ecosystem.
 
-Since 2013, we&quot;ve expanded to bring our standards and quality commitment to customers by consulting on PHP, Node, and .NET platforms. We also consult companies on effective use of Git for source control.
+Since 2013, we&#39;ve expanded to bring our standards and quality commitment to customers by consulting on PHP, Node, and .NET platforms. We also consult companies on effective use of Git for source control.
 
 #### Microsoft - Intern, Software Development Engineer in Test
 
@@ -44,4 +44,4 @@ I wrote tools to streamline the simulation of production configurations on test 
 
 *June 2010 - August 2010*
 
-I created automated tests for new features being added to Microsoft adCenter&quot;s desktop ad campaign management tool
+I created automated tests for new features being added to Microsoft adCenter&#39;s desktop ad campaign management tool
