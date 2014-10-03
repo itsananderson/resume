@@ -4,6 +4,10 @@ subtitle: Resume
 layout: page
 ---
 
+will@itsananderson.com  
+[http://willi.am/](http://willi.am/)  
+[https://github.com/itsananderson/](https://github.com/itsananderson/)
+
 ### Summary
 
 I chose the software development industry because it constantly provides new challenges.
