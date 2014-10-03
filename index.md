@@ -1,6 +1,6 @@
 ---
 title: Will Anderson
-subtitle: Resume
+subtitle: R&egrave;sum&egrave;
 layout: page
 ---
 
@@ -63,6 +63,7 @@ The Digital Asset Management service is a backend for storage, management, encod
 * JavaScript
 * Node.js
 * AngularJS
+* HTML5
 * Git
 * C#
 * PHP
