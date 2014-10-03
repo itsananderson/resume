@@ -1,6 +1,6 @@
 ---
 title: Will Anderson
-subtitle: R&egrave;sum&egrave;
+subtitle: R&eacute;sum&eacute;
 layout: page
 ---
 
