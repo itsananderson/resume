@@ -38,7 +38,7 @@ I&#39;ve been developing WordPress plugins and themes for people since 2008. In 
 
 Since 2013, we&#39;ve expanded to bring our standards and quality commitment to customers by consulting on PHP, Node, and .NET platforms. We also consult companies on effective use of Git for source control.
 
-<span style="page-break-before: always"></span>
+<p style="page-break-before: always"></p>
 
 #### Microsoft - Intern, Software Development Engineer in Test
 
