@@ -66,6 +66,10 @@ The Digital Asset Management service is a backend for storage, management, encod
 
 Bachelor of Science (BS), Computer Science, 2008-2012
 
+**Activities**
+
+PHP Coder Dojo - Lead a workshop on web development using the LAMP stack
+
 ### Skills
 
 * JavaScript
