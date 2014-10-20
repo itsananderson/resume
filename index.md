@@ -60,6 +60,12 @@ I created automated tests for new features being added to Microsoft adCenter&#39
 
 The Digital Asset Management service is a backend for storage, management, encoding, and delivery of creative assets such as images and videos. This service was built on cloud technology (Windows Azure), and is designed to be highly available and scalable.
 
+### Education
+
+#### Rose-Hulman Institute of Technology
+
+Bachelor of Science (BS), Computer Science, 2008-2012
+
 ### Skills
 
 * JavaScript
