@@ -42,7 +42,7 @@ I worked on the private cloud infrastructure for the Online Services Division (B
 
 *January 2012 - Present*
 
-I&#39;ve been developing WordPress plugins and themes for people since 2008. In 2012, I teamed up with two other devs, and we founded CodeAwhile. Our primary focus is custom WordPress plugin development. We&#39;re doing our best to bring industry software development principles to the WordPress ecosystem.
+I&#39;ve been developing WordPress plugins and themes on a part-time basis since 2008. In 2012, I teamed up with two other devs, and we founded CodeAwhile. Our primary focus is custom WordPress plugin development. We&#39;re all employed full time, and are doing our best to bring industry software development principles to the WordPress ecosystem through our part-time freelance work.
 
 Since 2013, we&#39;ve expanded to bring our standards and quality commitment to customers by consulting on PHP, Node, and .NET platforms. We also consult companies on effective use of Git for source control.
 
