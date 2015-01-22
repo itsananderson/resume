@@ -21,13 +21,20 @@ I have a passion for writing tools that either make tasks easier to complete or 
 
 *June 2012 - Present*
 
-##### ACM Authoring and Asset Management (2013 - Present)
+##### Visual Studio Client Tools
+
+I am building JavaScript developer tools for Visual Studio and Internet Explorer (F12). My team&#39;s focus is JavaScript performance tooling, network inspector, and the DOM explorer.
+
+My primary focus has been rewriting DOM explorer to improve performance.
+
+
+##### ACM Authoring and Asset Management
 
 I&#39;m building tools for authoring a wide variety of ad experiences. In addition to maintaining legacy ad creation tools, I&#39;m building the next generation of tooling using modern technology: Angular, ASP.NET, and Node, hosted on Windows Azure.
 
 In addition to client-side tools, I built, and am maintaining the backend service for storage, management, encoding, and delivery of creative assets such as images and videos. This service was built on cloud technology (Windows Azure), and is designed to be highly available and scalable.
 
-##### Bing Autopilot (2012 - 2013)
+##### Bing Autopilot
 
 I worked on the private cloud infrastructure for the Online Services Division (Bing, MSN). My team wrote and maintained the software that deploys and monitors services and data for Bing, Bing Ads, and MSN.
 
