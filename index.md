@@ -38,6 +38,8 @@ In addition to client-side tools, I built, and am maintaining the backend servic
 
 I worked on the private cloud infrastructure for the Online Services Division (Bing, MSN). My team wrote and maintained the software that deploys and monitors services and data for Bing, Bing Ads, and MSN.
 
+<p style="page-break-before: always"></p>
+
 #### CodeAwhile.com - Co-Founder, Lead Developer
 
 *January 2012 - Present*
@@ -45,8 +47,6 @@ I worked on the private cloud infrastructure for the Online Services Division (B
 I&#39;ve been developing WordPress plugins and themes on a part-time basis since 2008. In 2012, I teamed up with two other devs, and we founded CodeAwhile. Our primary focus is custom WordPress plugin development. We&#39;re all employed full time, and are bringing industry software development principles to the WordPress ecosystem through our part-time freelance work.
 
 Since 2013, we&#39;ve expanded to bring our standards and quality commitment to customers by consulting on PHP, Node, and .NET platforms. We also consult companies on effective use of Git for source control.
-
-<p style="page-break-before: always"></p>
 
 #### Microsoft - Intern, Software Development Engineer in Test
 
