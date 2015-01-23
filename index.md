@@ -30,9 +30,9 @@ My primary focus has been rewriting DOM explorer to improve performance.
 
 ##### ACM Authoring and Asset Management
 
-I&#39;m building tools for authoring a wide variety of ad experiences. In addition to maintaining legacy ad creation tools, I&#39;m building the next generation of tooling using modern technology: Angular, ASP.NET, and Node, hosted on Windows Azure.
+I built tools for authoring a wide variety of ad experiences. In addition to maintaining legacy ad creation tools, I built the next generation of tooling using modern technology: Angular, ASP.NET, and Node, hosted on Windows Azure.
 
-In addition to client-side tools, I built, and am maintaining the backend service for storage, management, encoding, and delivery of creative assets such as images and videos. This service was built on cloud technology (Windows Azure), and is designed to be highly available and scalable.
+In addition to client-side tools, I built and maintained the backend service for storage, management, encoding, and delivery of creative assets such as images and videos. This service was built on cloud technology (Windows Azure), and designed to be highly available and scalable.
 
 ##### Bing Autopilot
 
