@@ -23,9 +23,7 @@ I have a passion for writing tools that either make tasks easier to complete or 
 
 ##### Visual Studio Client Tools
 
-I am building JavaScript developer tools for Visual Studio and Internet Explorer (F12). My team&#39;s focus is JavaScript performance tooling, network inspector, and the DOM explorer.
-
-My primary focus has been rewriting DOM explorer to improve performance.
+I am building web developer tools for Visual Studio and Internet Explorer (F12). My team&#39;s focus is JavaScript performance tooling, network inspector, and the DOM explorer. My primary focus has been improving performance and reliability in DOM Explorer.
 
 
 ##### ACM Authoring and Asset Management
