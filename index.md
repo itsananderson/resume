@@ -23,7 +23,9 @@ I have a passion for writing tools that either make tasks easier to complete or 
 
 ##### Visual Studio Client Tools
 
-I am building web developer tools for Visual Studio and Internet Explorer (F12). My team&#39;s focus is JavaScript performance tooling, network inspector, and the DOM explorer. My primary focus has been improving performance and reliability in DOM Explorer.
+I am building cross-platform tools and cloud services that make it easier for hybrid mobile developers (Cordova, PhoneGap, React Native) to build apps. With my experience utilizing Azure and Node, I've been able to help my team ramp up quickly as we utilize this technology to build scalable REST APIs and cross-platform CLI tools. I also took charge of setting up and maintaining our CI tooling so that we can ensure quality while iterating quickly.
+
+Previously on this team, I rewrote and shipped a new DOM Explorer tool for IE/Edge with Windows 10 and Visual Studio 2015. The updated tool has improved performance on large websites, and fixes a number of UI bugs.
 
 
 ##### ACM Authoring and Asset Management
