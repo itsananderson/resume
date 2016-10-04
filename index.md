@@ -17,16 +17,21 @@ I have a passion for writing tools that either make tasks easier to complete or 
 
 ### Work Experience
 
-#### Microsoft - Software Development Engineer
+#### Microsoft - Software Development Engineer 2
 
 *June 2012 - Present*
 
+##### Power BI Embedded
+
+I worked with an small team of engineers to deliver [Power BI Embedded](https://azure.microsoft.com/en-us/services/power-bi-embedded/), an Azure service that enables developers to embed interactive visual reports into their own applications and websites. Working on a tight deadline, we were built the new auth model and Azure portal integration needed to deliver Power BI as a consumable Azure resource.
+
 ##### Visual Studio Client Tools
 
-I am building cross-platform tools and cloud services that make it easier for hybrid mobile developers (Cordova, PhoneGap, React Native) to build apps. With my experience utilizing Azure and Node, I've been able to help my team ramp up quickly as we utilize this technology to build scalable REST APIs and cross-platform CLI tools. I also took charge of setting up and maintaining our CI tooling so that we can ensure quality while iterating quickly.
+During my time on this team, I was a tech lead for the [CodePush](https://microsoft.github.io/code-push/) project. With my experience utilizing Azure and Node, was able to help my team ramp up quickly as we utilized this technology to build scalable REST APIs and cross-platform CLI tools. I also took charge of setting up and maintaining our CI tooling so that we can ensure quality while iterating quickly.
 
 Previously on this team, I rewrote and shipped a new DOM Explorer tool for IE/Edge with Windows 10 and Visual Studio 2015. The updated tool has improved performance on large websites, and fixes a number of UI bugs.
 
+During my time on this team, I was promoted to Software Development Engineer 2 for my delivery of the new DOM Explorer, and my tech leadership on the CodePush project.
 
 ##### ACM Authoring and Asset Management
 
