@@ -67,9 +67,8 @@ Bachelor of Science (BS), Computer Science, 2008-2012
 
 * JavaScript
 * Node.js
-* AngularJS
-* HTML5
+* React
+* Redux
 * Git
+* Docker
 * C#
-* PHP
-* WordPress
