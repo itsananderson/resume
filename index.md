@@ -19,7 +19,12 @@ I have a passion for writing tools that either make tasks easier to complete or 
 
 #### Microsoft - Software Development Engineer 2
 
-*June 2012 - Present*
+*November 2014 - Present*
+
+##### Dynamics D365 Shared Services
+
+After our success building Power BI Embedded, my team was brought into the Dynamics org to build out the infrastructure for D365, Dynamics' cloud-based offering of line-of-business apps.
+In addition to building out the generic infrastructure for these cloud services, we work with our partner teams to build the services and integrations they need to build their apps.
 
 ##### Power BI Embedded
 
@@ -32,6 +37,10 @@ During my time on this team, I was a tech lead for the [CodePush](https://micros
 Previously on this team, I rewrote and shipped a new DOM Explorer tool for IE/Edge with Windows 10 and Visual Studio 2015. The updated tool has improved performance on large websites, and fixes a number of UI bugs.
 
 During my time on this team, I was promoted to Software Development Engineer 2 for my delivery of the new DOM Explorer, and my tech leadership on the CodePush project.
+
+#### Microsoft - Software Development Engineer
+
+*June 2012 - November 2014*
 
 ##### ACM Authoring and Asset Management
 
