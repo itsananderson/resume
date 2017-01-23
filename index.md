@@ -38,6 +38,8 @@ Previously on this team, I rewrote and shipped a new DOM Explorer tool for IE/Ed
 
 During my time on this team, I was promoted to Software Development Engineer 2 for my delivery of the new DOM Explorer, and my tech leadership on the CodePush project.
 
+<p style="page-break-before: always"></p>
+
 #### Microsoft - Software Development Engineer
 
 *June 2012 - November 2014*
@@ -51,8 +53,6 @@ In addition to client-side tools, I built and maintained the backend service for
 ##### Bing Autopilot
 
 I worked on the private cloud infrastructure for the Online Services Division (Bing, MSN). My team wrote and maintained the software that deploys and monitors services and data for Bing, Bing Ads, and MSN.
-
-<p style="page-break-before: always"></p>
 
 #### Microsoft - Intern, Software Development Engineer in Test
 
